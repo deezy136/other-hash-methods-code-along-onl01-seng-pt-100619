@@ -32,7 +32,7 @@ get_the_values(groceries)
 
 
 def get_the_min(groceries)
-  groceries.values.flatten.min
+ return groceries.values.flatten.min
   
-  groceries
+  
 end
